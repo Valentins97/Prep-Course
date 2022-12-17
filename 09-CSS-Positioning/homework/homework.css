@@ -6,26 +6,90 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Ejercicio 1: Centrar el texto en un span */
 
 /* Arrancaremos este ejercicio por vos: */
-#ejercicioUno {
 
-}
+/* <span> Texto </span> 
+
+ <style>
+    span {
+        
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+
+</style> */
 
 
 /* Ejercicio 2: Posicionar el header */
 
-/* Acá va tu código */
+/* <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <header>
+        <h1> Titulo centrado</h1>
+
+    </header>
+    <style>
+        header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+  </body>
+</html> */
 
 
 
 /* Ejercicio 3: */
 
-/* Acá va tu código */
+/* <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <header>
+        <h1> Titulo izquierdo</h1>
+
+    </header>
+    <style>
+        header {
+            display: flex;
+            justify-content: left;
+            align-items: left;
+        }
+    </style>
+  </body>
+</html> */
 
 
 
 /* Ejercicio 4: */
 
-/* Acá va tu código */
+/* <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <header>
+        <h1> Titulo derecho</h1>
+
+    </header>
+    <style>
+        header {
+            display: flex;
+            justify-content: right;
+            align-items: right;
+        }
+    </style>
+  </body>
+</html> */
 
 
 
